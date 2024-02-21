@@ -8,17 +8,17 @@ We have a dedicated interest in applied statistics (machine learning, bayesian m
 
 
 
-### [Data stories for selected projects](https://audreyburki.github.io/Overview/)
+### [Data stories for selected projects](https://valentinatretti.github.io/Overview/)
 
 
 
 ## The lab
 
-[Open positions](https://audreyburki.github.io/Open-Positions/)  
+[Open positions](https://valentinatretti.github.io/Open-Positions/)  
 
-[News](https://audreyburki.github.io/Lab-News/)  
+[News](https://valentinatretti.github.io/Lab-News/)  
 
-[Lab members](https://audreyburki.github.io/Lab-Members/)  
+[Lab members](https://valentinatretti.github.io/Lab-Members/)  
 
 [Follow the CSLM LAB on Github](https://github.com/cslm-lab)
 
